@@ -13,6 +13,7 @@ Analysis:
 Key Skills: Data cleaning, feature engineering, categorical visualization, correlation analysis
 
 Results:
+
 Number of each race:
  race
 White                 27816
