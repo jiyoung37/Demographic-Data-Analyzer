@@ -1,7 +1,7 @@
 # Demographic Data Analyzer
 freeCodeCamp_Data Analysis with Python_Project 
 
-## Tools: 
+### Tools: 
 Python, Pandas
 
 Summary: This project analyzes demographic data from a medical survey to identify trends in health indicators such as cholesterol, blood pressure, and body mass index.
