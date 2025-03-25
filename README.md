@@ -15,18 +15,14 @@ Key Skills: Data cleaning, feature engineering, categorical visualization, corre
 Results:
 
 Number of each race:
+ 
  race
 
-White                 27816
-
-Black                  3124
-
-Asian-Pac-Islander     1039
-
-Amer-Indian-Eskimo      311
-
-Other                   271
-
+    White                 27816
+    Black                  3124
+    Asian-Pac-Islander     1039
+    Amer-Indian-Eskimo      311
+    Other                   271
 Name: count, dtype: int64
 Average age of men: 39.4
 Percentage with Bachelors degrees: 16.4%
