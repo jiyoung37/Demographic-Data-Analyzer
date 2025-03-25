@@ -17,7 +17,6 @@ Results:
 Number of each race:
  
  race
-
     White                 27816
     Black                  3124
     Asian-Pac-Islander     1039
